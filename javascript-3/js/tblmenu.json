@@ -1,0 +1,30 @@
+[ 
+    {
+        "idmenu" : 30,
+        "idkategori" : 28,
+        "menu" : "Apel Fuji",
+        "harga" : 3000,
+        "warna" : ["merah", "kuning", "hijau"],
+        "stok" : true,
+        "keterangan" : null
+    },
+    {
+        "idmenu" : 31,
+        "idkategori" : 28,
+        "menu" : "Pisang",
+        "harga" : 3000,
+        "warna" : ["merah", "kuning"],
+        "stok" : false,
+        "keterangan" : null
+    },
+    {
+        "idmenu" : 31,
+        "idkategori" : 28,
+        "menu" : "Salak",
+        "harga" : 3000,
+        "warna" : ["merah", "kuning"],
+        "stok" : false,
+        "keterangan" : null
+    }
+
+]
